@@ -1,0 +1,12 @@
+/************* Yêu c?u dã cài d?t thành công laravel *************/
+B1 : C?u hình csdl t?i file ".env" .
+B2 : import database lên phpmyadmin.
+B3 : M? c?a s? cmd lên gõ "php artisan serve";
+B4 : h? th?ng tr? v? kq nhu sau(c?a mình) : " Laravel development server started: <http://127.0.0.1:8000> ".
+B5 : truy c?p theo du?ng d?n trên.
+  
+
+--- Ðang nh?p qu?n tr? admin t?i(ví d?) http://127.0.0.1:8000/admin.
+Tk : admin && Mk : toaicankhon.
+
+/************Facebook mình : https://www.facebook.com/nguyenphuong.2661999************/
